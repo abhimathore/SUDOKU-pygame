@@ -1,7 +1,7 @@
 # Sudoku-GUI-Solver
 This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version.
 
-#Pre-requisite
+# Pre-requisite
 Install pygame by running 'pip install pygame' in your command line.
 
 Run GUI.py to play sudoku.
